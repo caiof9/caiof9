@@ -1,4 +1,4 @@
-### Olá, Eu sou o Caio
+### Olá, eu sou o Caio
 
 - 🔭 Meu nome é Caio
 - 🌱 Estou estudando Front-End
