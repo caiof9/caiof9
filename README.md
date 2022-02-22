@@ -16,3 +16,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="37" width= "40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" width= "40" />
  </div>
+
+  ![Snake animation](https://github.com/caiof9/caiof9/blob/output/github-contribution-grid-snake.svg)
