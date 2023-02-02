@@ -2,7 +2,7 @@
 
 - 🔭 Meu nome é Caio
 - 🌱 Estou estudando Front-End
-- ⚡ Tenho 23 anos
+- ⚡ Tenho 24 anos
 
 
 <div align="center">
